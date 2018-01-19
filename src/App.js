@@ -8,9 +8,9 @@ import {
 
 
 const students = [
-  {id : 12, name: 'Sam', score: 100},
-  {id : 18, name: 'Rose', score: 10},
-  {id : 20, name: 'Violet', score: 50}
+  {id : '12', name: 'Sam', score: 100},
+  {id : '18', name: 'Rose', score: 10},
+  {id : '20', name: 'Violet', score: 50}
 ]
 
 const Home = () => (<div>Home</div>)
